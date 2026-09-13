@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Renviron
+
+# If your Excel file is huge or private, uncomment the next line:
+# data/*.xlsx
+# *.xlsx
