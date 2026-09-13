@@ -28,7 +28,7 @@ An R Shiny web application designed to visualize and filter both thesis and proj
 ## 📂 Project Structure
 
 ```text
-thesis-interactive-map/
+Geosience_ThesisProjects_Repository/
 ├── app.R                  # Main Shiny application code (UI & Server)
 ├── data/
 │   └── Thesis_samples_02.xlsx # The database of thesis samples (if included)
