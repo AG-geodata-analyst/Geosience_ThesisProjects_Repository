@@ -1,0 +1,81 @@
+Author,Type,Title,Subject,Sample.type,Date_work,Link.Thesis,Email.adress,Cellphone,longitude,latitude
+Josue Ponce,Thesis,Volcanic ash geochemistry of the Napo region,Geochemistry,Sediment,2022,www,josue.ponce@est.ikiam.edu.ec,+593 98 825 9223,-77.87454,-0.92529
+Josue Ponce,Thesis,Hydrothermal alteration mapping in Tena,Geochemistry; Volcanology,Rock,2022,www,josue.ponce@est.ikiam.edu.ec,+593 98 825 9223,-77.88226,-0.91733
+Anderson Guaman,Project,Geophysical survey of the Puyo basin,Geophysics,Rock,2023,xxx,anderson.guaman@ikiam.edu.ec,+593 99 258 4125,-77.83083,-0.98972
+Anderson Guaman,Project,Seismic refraction along the Napo river,Geophysics,Sediment,2023,xxx,anderson.guaman@ikiam.edu.ec,+593 99 258 4125,-77.82027,-0.99250
+Katherine Chamba,Thesis,Hydrocarbon potential of the Oriente basin,Sedimentology; Geochemistry,Hydrocarbon,2021,zzz,katherine.chamba@est.ikiam.edu.ec,+593 96 118 0134,-77.95587,-1.07393
+Katherine Chamba,Thesis,Source rock analysis in Sucumbios,Sedimentology,Hydrocarbon,2021,zzz,katherine.chamba@est.ikiam.edu.ec,+593 96 118 0134,-77.95672,-1.07369
+Maria Fernandez,Thesis,Cotopaxi lahar deposits stratigraphy,Volcanology,Sediment,2019,abc,maria.fernandez@epn.edu.ec,+593 98 111 2233,-78.43700,-0.68000
+Maria Fernandez,Thesis,Petrology of Cotopaxi recent lavas,Volcanology; Geochemistry,Rock,2019,abc,maria.fernandez@epn.edu.ec,+593 98 111 2233,-78.44200,-0.67500
+Carlos Quishpe,Project,Geothermal exploration in Chachimbiro,Geophysics; Volcanology,Rock,2020,def,carlos.quishpe@epn.edu.ec,+593 99 445 6677,-78.20000,0.45000
+Carlos Quishpe,Project,Magnetotelluric survey of Imbabura volcano,Geophysics,Rock,2020,def,carlos.quishpe@epn.edu.ec,+593 99 445 6677,-78.18000,0.42000
+Daniela Toapanta,Thesis,Sediment transport in the Pastaza river,Sedimentology,Sediment,2018,ghi,daniela.toapanta@est.ikiam.edu.ec,+593 96 778 9900,-77.50000,-1.50000
+Daniela Toapanta,Thesis,Fluvial geomorphology of the upper Amazon,Sedimentology,Sediment,2018,ghi,daniela.toapanta@est.ikiam.edu.ec,+593 96 778 9900,-77.49000,-1.51000
+Luis Guaranda,Thesis,Chimborazo glacial retreat geochemistry,Geochemistry,Sediment,2017,jkl,luis.guaranda@espoch.edu.ec,+593 97 223 4455,-78.81700,-1.47000
+Luis Guaranda,Thesis,Heavy metals in glacial meltwater,Geochemistry,Sediment,2017,jkl,luis.guaranda@espoch.edu.ec,+593 97 223 4455,-78.82000,-1.47500
+Andrea Pilco,Project,Tungurahua ash fall monitoring,Volcanology,Sediment,2021,mno,andrea.pilco@epn.edu.ec,+593 98 334 5566,-78.44000,-1.46700
+Andrea Pilco,Project,Petrology of Tungurahua andesites,Volcanology; Geochemistry,Rock,2021,mno,andrea.pilco@epn.edu.ec,+593 98 334 5566,-78.44500,-1.46200
+Diego Cazar,Thesis,Seismic hazard assessment of Quito,Geophysics,Rock,2016,pqr,diego.cazar@epn.edu.ec,+593 99 112 3344,-78.50000,-0.18000
+Diego Cazar,Thesis,Microzonation of the Quito valley,Geophysics,Sediment,2016,pqr,diego.cazar@epn.edu.ec,+593 99 112 3344,-78.49000,-0.19000
+Sofia Andrade,Thesis,Gold mineralization in Zaruma,Geochemistry,Rock,2015,stu,sofia.andrade@utm.edu.ec,+593 96 556 7788,-79.61000,-3.69000
+Sofia Andrade,Thesis,Vein systems of Portovelo mining district,Geochemistry,Rock,2015,stu,sofia.andrade@utm.edu.ec,+593 96 556 7788,-79.62000,-3.69500
+Miguel Villacis,Project,Hydrocarbon exploration in the Gulf of Guayaquil,Sedimentology,Hydrocarbon,2022,vwx,miguel.villacis@espol.edu.ec,+593 98 998 7766,-80.10000,-2.80000
+Miguel Villacis,Project,Biomarker analysis of coastal source rocks,Sedimentology; Geochemistry,Hydrocarbon,2022,vwx,miguel.villacis@espol.edu.ec,+593 98 998 7766,-80.11000,-2.81000
+Paola Espinoza,Thesis,Reventador volcano gas emissions,Volcanology,Sediment,2020,yza,paola.espinoza@epn.edu.ec,+593 99 445 1122,-77.66000,-0.08000
+Paola Espinoza,Thesis,SO2 flux monitoring at Reventador,Volcanology; Geophysics,Sediment,2020,yza,paola.espinoza@epn.edu.ec,+593 99 445 1122,-77.65500,-0.07500
+Jorge Loor,Project,Coastal erosion in Manta,Geophysics,Sediment,2019,bcd,jorge.loor@uleam.edu.ec,+593 96 778 1122,-80.73000,-0.95000
+Jorge Loor,Project,Bathymetry of the Manta coastline,Geophysics,Sediment,2019,bcd,jorge.loor@uleam.edu.ec,+593 96 778 1122,-80.74000,-0.94500
+Veronica Bravo,Thesis,Sangay volcano petrology,Volcanology; Geochemistry,Rock,2018,efg,veronica.bravo@espoch.edu.ec,+593 97 223 9988,-78.34000,-2.00000
+Veronica Bravo,Thesis,Lava flow geochemistry of Sangay,Volcanology; Geochemistry,Rock,2018,efg,veronica.bravo@espoch.edu.ec,+593 97 223 9988,-78.34500,-2.00500
+Esteban Cordero,Project,Geothermal potential of Chiles volcano,Geophysics,Rock,2023,hij,esteban.cordero@epn.edu.ec,+593 98 112 5566,-77.95000,0.82000
+Esteban Cordero,Project,Heat flow measurements at Chiles,Geophysics,Rock,2023,hij,esteban.cordero@epn.edu.ec,+593 98 112 5566,-77.95500,0.82500
+Camila Saenz,Thesis,Sedimentology of the Cuenca basin,Sedimentology,Sediment,2017,klm,camila.saenz@ucuenca.edu.ec,+593 99 334 7788,-79.00000,-2.90000
+Camila Saenz,Thesis,Stratigraphy of the Azogues formation,Sedimentology,Sediment,2017,klm,camila.saenz@ucuenca.edu.ec,+593 99 334 7788,-79.01000,-2.91000
+Ricardo Vinueza,Project,Landslide susceptibility in Loja,Geophysics,Sediment,2021,nop,ricardo.vinueza@utpl.edu.ec,+593 96 556 1122,-79.20000,-3.99000
+Ricardo Vinueza,Project,Geotechnical mapping of Loja province,Geophysics,Rock,2021,nop,ricardo.vinueza@utpl.edu.ec,+593 96 556 1122,-79.21000,-3.99500
+Tatiana Yanez,Thesis,Petroleum system of the Putumayo basin,Sedimentology; Geochemistry,Hydrocarbon,2019,qrs,tatiana.yanez@epn.edu.ec,+593 97 445 6677,-76.50000,0.10000
+Tatiana Yanez,Thesis,Maturity modeling of Cretaceous source rocks,Sedimentology,Hydrocarbon,2019,qrs,tatiana.yanez@epn.edu.ec,+593 97 445 6677,-76.51000,0.10500
+Pablo Herrera,Project,Volcanic hazard map of Pichincha,Volcanology,Rock,2016,tuv,pablo.herrera@epn.edu.ec,+593 98 998 2233,-78.60000,-0.17000
+Pablo Herrera,Project,Lahar modelling for Quito,Volcanology; Geophysics,Sediment,2016,tuv,pablo.herrera@epn.edu.ec,+593 98 998 2233,-78.60500,-0.17500
+Ana Cedeno,Thesis,Heavy mineral analysis of Esmeraldas beaches,Geochemistry; Sedimentology,Sediment,2020,wxy,ana.cedeno@espol.edu.ec,+593 99 112 9988,-79.66000,0.96000
+Ana Cedeno,Thesis,Provenance of coastal sands in Esmeraldas,Sedimentology,Sediment,2020,wxy,ana.cedeno@espol.edu.ec,+593 99 112 9988,-79.67000,0.96500
+Bryan Zambrano,Project,Seismic monitoring of the Guayaquil fault,Geophysics,Rock,2018,zab,bryan.zambrano@espol.edu.ec,+593 96 778 5566,-79.90000,-2.17000
+Bryan Zambrano,Project,GPS deformation monitoring in SW Ecuador,Geophysics,Rock,2018,zab,bryan.zambrano@espol.edu.ec,+593 96 778 5566,-79.91000,-2.17500
+Nicole Rosero,Thesis,Volcanic stratigraphy of Cuicocha,Volcanology,Rock,2015,cde,nicole.rosero@epn.edu.ec,+593 97 223 1122,-78.37000,0.30000
+Nicole Rosero,Thesis,Tephra chronology of Cuicocha volcano,Volcanology,Sediment,2015,cde,nicole.rosero@epn.edu.ec,+593 97 223 1122,-78.37500,0.30500
+Mateo Alvarado,Project,Hydrogeology of the Latacunga aquifer,Geophysics,Sediment,2021,fgh,mateo.alvarado@epn.edu.ec,+593 98 445 7788,-78.62000,-0.93000
+Mateo Alvarado,Project,Groundwater recharge in Cotopaxi province,Geophysics,Sediment,2021,fgh,mateo.alvarado@epn.edu.ec,+593 98 445 7788,-78.62500,-0.93500
+Gabriela Paredes,Thesis,Metamorphic petrology of the Loja terrane,Geochemistry,Rock,2014,ijk,gabriela.paredes@utpl.edu.ec,+593 99 556 3344,-79.25000,-4.00000
+Gabriela Paredes,Thesis,Geochronology of the Loja complex,Geochemistry,Rock,2014,ijk,gabriela.paredes@utpl.edu.ec,+593 99 556 3344,-79.25500,-4.00500
+Sebastian Tapia,Project,Volcanic risk in Banos de Agua Santa,Volcanology,Sediment,2023,lmn,sebastian.tapia@espoch.edu.ec,+593 96 112 8877,-78.42000,-1.40000
+Sebastian Tapia,Project,Evacuation modelling for Tungurahua,Volcanology,Sediment,2023,lmn,sebastian.tapia@espoch.edu.ec,+593 96 112 8877,-78.42500,-1.40500
+Valeria Morocho,Thesis,Organic geochemistry of the Maranon basin,Sedimentology; Geochemistry,Hydrocarbon,2022,opq,valeria.morocho@epn.edu.ec,+593 97 778 4455,-76.00000,-3.50000
+Valeria Morocho,Thesis,Rock-Eval pyrolysis of Cretaceous shales,Sedimentology,Hydrocarbon,2022,opq,valeria.morocho@epn.edu.ec,+593 97 778 4455,-76.01000,-3.50500
+Cristian Caiza,Project,Volcanic ash dispersal modelling,Volcanology,Sediment,2019,rst,cristian.caiza@epn.edu.ec,+593 98 223 9911,-78.50000,-0.50000
+Cristian Caiza,Project,Air quality monitoring near Cotopaxi,Volcanology,Sediment,2019,rst,cristian.caiza@epn.edu.ec,+593 98 223 9911,-78.50500,-0.50500
+Isabel Naranjo,Thesis,Glacial geology of Antisana,Geochemistry,Sediment,2016,uvw,isabel.naranjo@epn.edu.ec,+593 99 445 3322,-78.15000,-0.48000
+Isabel Naranjo,Thesis,Paleoclimate record from Antisana ice cores,Geochemistry,Sediment,2016,uvw,isabel.naranjo@epn.edu.ec,+593 99 445 3322,-78.15500,-0.48500
+Fernando Chavez,Project,Geophysical exploration for minerals in Zamora,Geophysics,Rock,2020,xyz,fernando.chavez@utm.edu.ec,+593 96 334 7788,-78.95000,-4.07000
+Fernando Chavez,Project,IP resistivity survey in Zamora Chinchipe,Geophysics,Rock,2020,xyz,fernando.chavez@utm.edu.ec,+593 96 334 7788,-78.95500,-4.07500
+Alejandra Cabrera,Thesis,Sediment provenance of the Oriente basin,Sedimentology,Sediment,2018,abc,alejandra.cabrera@est.ikiam.edu.ec,+593 97 112 6655,-76.98000,-0.46000
+Alejandra Cabrera,Thesis,Detrital zircon geochronology of Napo sandstones,Sedimentology; Geochemistry,Sediment,2018,abc,alejandra.cabrera@est.ikiam.edu.ec,+593 97 112 6655,-76.98500,-0.46500
+Marco Vinueza,Project,Volcanic hazard assessment of Imbabura,Volcanology,Rock,2017,def,marco.vinueza@epn.edu.ec,+593 98 778 1122,-78.18000,0.23000
+Marco Vinueza,Project,Lahar flow simulation of Imbabura,Volcanology; Geophysics,Sediment,2017,def,marco.vinueza@epn.edu.ec,+593 98 778 1122,-78.18500,0.23500
+Diana Salazar,Thesis,Soil geochemistry of the Pichincha slopes,Geochemistry,Sediment,2021,ghi,diana.salazar@epn.edu.ec,+593 99 223 4455,-78.65000,-0.25000
+Diana Salazar,Thesis,Heavy metal contamination in Quito soils,Geochemistry,Sediment,2021,ghi,diana.salazar@epn.edu.ec,+593 99 223 4455,-78.65500,-0.25500
+Roberto Betancourt,Project,Hydrocarbon potential of the Progreso basin,Sedimentology,Hydrocarbon,2019,jkl,roberto.betancourt@espol.edu.ec,+593 96 445 9988,-80.90000,-2.50000
+Roberto Betancourt,Project,Basin modelling of the Progreso basin,Sedimentology,Hydrocarbon,2019,jkl,roberto.betancourt@espol.edu.ec,+593 96 445 9988,-80.91000,-2.50500
+Carmen Villamar,Thesis,Volcanology of the Pululahua dome complex,Volcanology,Rock,2015,mno,carmen.villamar@epn.edu.ec,+593 97 556 2211,-78.50000,-0.05000
+Carmen Villamar,Thesis,Petrology of Pululahua dacites,Volcanology; Geochemistry,Rock,2015,mno,carmen.villamar@epn.edu.ec,+593 97 556 2211,-78.50500,-0.05500
+Felipe Jaramillo,Project,Groundwater exploration in Santo Domingo,Geophysics,Sediment,2022,pqr,felipe.jaramillo@espol.edu.ec,+593 98 112 3344,-79.17000,-0.25000
+Felipe Jaramillo,Project,Electrical resistivity for aquifer mapping,Geophysics,Sediment,2022,pqr,felipe.jaramillo@espol.edu.ec,+593 98 112 3344,-79.17500,-0.25500
+Paula Ordonez,Thesis,Stratigraphy of the Manabi coastal basin,Sedimentology,Sediment,2017,stu,paula.ordonez@uleam.edu.ec,+593 99 778 5544,-80.50000,-1.00000
+Paula Ordonez,Thesis,Miocene sedimentation in Manabi,Sedimentology,Sediment,2017,stu,paula.ordonez@uleam.edu.ec,+593 99 778 5544,-80.50500,-1.00500
+Xavier Ponce,Project,Volcanic seismicity of Tungurahua,Geophysics; Volcanology,Rock,2020,vwx,xavier.ponce@epn.edu.ec,+593 96 223 8877,-78.44000,-1.47000
+Xavier Ponce,Project,Seismic tomography of Tungurahua,Geophysics,Rock,2020,vwx,xavier.ponce@epn.edu.ec,+593 96 223 8877,-78.44500,-1.47500
+Lucia Andrade,Thesis,Geochemistry of the Amazonian black waters,Geochemistry,Sediment,2023,yza,lucia.andrade@est.ikiam.edu.ec,+593 97 445 1122,-76.50000,-0.50000
+Lucia Andrade,Thesis,Dissolved organic matter in Napo rivers,Geochemistry,Sediment,2023,yza,lucia.andrade@est.ikiam.edu.ec,+593 97 445 1122,-76.50500,-0.50500
+Nicolas Carrasco,Project,Geological mapping of the Cutucu range,Sedimentology; Geophysics,Rock,2018,bcd,nicolas.carrasco@epn.edu.ec,+593 98 556 7788,-78.10000,-2.50000
+Nicolas Carrasco,Project,Structural geology of the Subandean zone,Geophysics,Rock,2018,bcd,nicolas.carrasco@epn.edu.ec,+593 98 556 7788,-78.10500,-2.50500
+Renata Palacios,Thesis,Volcanic risk in Latacunga,Volcanology,Sediment,2024,efg,renata.palacios@epn.edu.ec,+593 99 112 6644,-78.61500,-0.93500
+Renata Palacios,Thesis,Cotopaxi lahar hazard for Latacunga,Volcanology,Sediment,2024,efg,renata.palacios@epn.edu.ec,+593 99 112 6644,-78.62000,-0.94000
