@@ -35,12 +35,57 @@ The app is deployed on **Posit Connect Cloud** (free tier):
 
 ## 📂 Project Structure
 
-```text
-Geosience_ThesisProjects_Repository/
-├── app.R                                  # Main Shiny application code (UI & Server)
-├── data/
-│   ├── Thesis_samples.csv                 # Sample database (CSV, UTF-8)
-│   └── ecu_adm_adm1_2024_light.geojson    # Simplified Ecuador province boundaries
-├── manifest.json                          # Deployment manifest for Posit Connect Cloud
-├── .gitignore                             # Git ignore rules (excludes .xlsx, .Rhistory, etc.)
-└── README.md                              # Project documentation
+    Geosience_ThesisProjects_Repository/
+    ├── app.R                                  # Main Shiny application code (UI & Server)
+    ├── data/
+    │   ├── Thesis_samples.csv                 # Sample database (CSV, UTF-8)
+    │   └── ecu_adm_adm1_2024_light.geojson    # Simplified Ecuador province boundaries
+    ├── manifest.json                          # Deployment manifest for Posit Connect Cloud
+    ├── .gitignore                             # Git ignore rules (excludes .xlsx, .Rhistory, etc.)
+    └── README.md                              # Project documentation
+
+## 💻 How to Run Locally
+
+To run this application on your own machine, you need **R** and **RStudio** installed.
+
+1. Clone this repository:
+
+        git clone https://github.com/AG-geodata-analyst/Geosience_ThesisProjects_Repository.git
+
+2. Open the project folder in RStudio (or set it as your working directory).
+
+3. Install the required R packages (only needed the first time):
+
+        install.packages(c("shiny", "tidyverse", "sf", "leaflet", "DT"))
+
+4. Open `app.R` in RStudio and click the **"Run App"** button at the top of the editor.
+
+## 🗺️ Data Notes
+
+- The sample data is stored as **CSV** (not Excel) to keep it Git-friendly, portable, and free from Excel's hidden formatting quirks.
+- The province boundaries are a **simplified** version of Ecuador's admin-level-1 GeoJSON (originally from HDX). The original file was ~4.5 MB; the light version is ~200 KB, making the app load approximately **20× faster**.
+- Author names in the popups are derived at runtime from the email column (e.g., `josue.ponce@est.ikiam.edu.ec` → "Josue Ponce").
+
+## 🚀 Deployment
+
+This app is deployed on **Posit Connect Cloud** (free tier), linked to this GitHub repository.
+
+To deploy or update:
+
+1. Ensure the `main` branch is up to date on GitHub.
+
+2. If R packages have changed, regenerate the manifest:
+
+        rsconnect::writeManifest()
+
+3. Commit and push — Posit Connect Cloud auto-redeploys on push.
+
+## 👤 Author
+
+**Anderson Guaman**
+
+- GitHub: [@AG-geodata-analyst](https://github.com/AG-geodata-analyst)
+
+## 📝 License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute it with attribution.
